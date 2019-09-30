@@ -1,8 +1,5 @@
-# Deep Learning Indaba 2019
-  
-This repository contains the practical notebooks for the Deep Learning Indaba
-2019, held in Kenyatta University, Kenya.
+# Khipu Practicals 2019
 
-See [www.deeplearningindaba.com](www.deeplearningindaba.com) for more details.
+This repository contains the practical notebooks for Khipu 2019, held in Universidad de la República in Montevideo.
 
-This is not an official Google product.
+See [www.khipu.ai](www.khipu.ai) for more details.
