@@ -14,3 +14,6 @@ Additionally, the [background](background) directory has some notebooks that can
 
 Each notebook can be opened in [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) through the button on the top of each file.
 They are all meant to be used with Colab's free resources.
+
+# Credit
+Khipu practicals are based on the practicals of the [Deep Learning Indaba](http://www.deeplearningindaba.com/practicals-2019.html)
